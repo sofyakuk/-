@@ -213,7 +213,7 @@ body {
 [data-type="ашепс"] .content__left {
   background-image: url("https://aca.ru/wp-content/uploads/2023/10/aleksandr-sheps114517.jpg");
 }
-.spinner--right [data-type="iceland"] .content__left {
+.spinner--right [data-type="ашепс"] .content__left {
   background-image: none;
 }
 [data-type="ошепс"] .content__left {
@@ -222,14 +222,14 @@ body {
 .spinner--right [data-type="china"] .content__left {
   background-image: none;
 }
-[data-type="usa"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/usa.jpg");
+[data-type="матвеев"] .content__left {
+  background-image: url("https://icdn.lenta.ru/images/2023/05/22/18/20230522185701535/wide_4_3_a2eb1c106357d88d3f3ea44cad855fa8.jpg");
 }
 .spinner--right [data-type="usa"] .content__left {
   background-image: none;
 }
-[data-type="peru"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/peru.jpg");
+[data-type="гецати"] .content__left {
+  background-image: url("https://i.pinimg.com/736x/3f/ae/0d/3fae0dd743e9b4a0cf889727b96acd70.jpg");
 }
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
