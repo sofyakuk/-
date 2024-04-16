@@ -216,8 +216,8 @@ body {
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
-[data-type="china"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/china.jpg");
+[data-type="ошепс"] .content__left {
+  background-image: url("https://n1s1.hsmedia.ru/10/2e/f8/102ef8342168248939f1c9bd8ef58df7/656x487_1_6c1529840779f8fb8a949af54d81100c@1432x1061_0xCt6yYZVn_3852451327728036961.jpg.webp");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;
